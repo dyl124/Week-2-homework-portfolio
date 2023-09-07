@@ -1,0 +1,36 @@
+.Passport{ 
+   width: 49%;
+   height: 30%;
+   border-radius: 8px;
+   padding-left: 50px;
+   max-width: 49%;
+   font-size: 16px;
+   align-items: row;
+   display: inline-flex;
+}
+.Selfie{
+    height: 200px;
+    width: 200px;
+
+}
+h1{ 
+    text-align: center;
+    font-size: 150%;
+    color: bisque;
+    display: block;
+    padding: 1px;
+}
+.Description{ 
+  color: red;
+  text-align: left;
+  padding-inline-start: 10px;    
+}
+.Current-projects{
+    color: Blue;
+}
+.About-me{ 
+    color: rgb(46, 212, 162); 
+}
+.Tittle{
+    color: red;
+}
